@@ -1,5 +1,5 @@
 # DJUNGELSKOG-PCB
-A DJUNGRLSKOG themed PCB board that lights up using LEDs powered by a battery
+A DJUNGELSKOG themed PCB board that lights up using LEDs powered by a battery
 
 ## Schematic 
 ![Screenshot 2025-05-20 200617](https://github.com/user-attachments/assets/615c157d-c975-42b8-a012-4cfc43fb18b4)
