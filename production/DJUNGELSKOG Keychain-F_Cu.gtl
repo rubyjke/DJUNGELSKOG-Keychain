@@ -1,0 +1,101 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.6*
+G04 #@! TF.CreationDate,2025-05-21T14:19:44-04:00*
+G04 #@! TF.ProjectId,DJUNGELSKOG Keychain,444a554e-4745-44c5-934b-4f47204b6579,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L1,Top*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.6) date 2025-05-21 14:19:44*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD10R,1.800000X1.800000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD11C,1.800000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD12C,2.000000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD13C,1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD14O,1.600000X1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ViaPad*
+%ADD15C,5.500000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.P,D2,1,K*
+G04 #@! TO.N,Net-(D2-K)*
+X137960000Y-101500000D03*
+D11*
+G04 #@! TO.P,D2,2,A*
+G04 #@! TO.N,Net-(D1-A)*
+X140500000Y-101500000D03*
+G04 #@! TD*
+D10*
+G04 #@! TO.P,.,1,K*
+G04 #@! TO.N,Net-(D1-K)*
+X133500000Y-95000000D03*
+D11*
+G04 #@! TO.P,.,2,A*
+G04 #@! TO.N,Net-(D1-A)*
+X136040000Y-95000000D03*
+G04 #@! TD*
+D10*
+G04 #@! TO.P,.,1,K*
+G04 #@! TO.N,Net-(D3-K)*
+X143460000Y-95000000D03*
+D11*
+G04 #@! TO.P,.,2,A*
+G04 #@! TO.N,Net-(D1-A)*
+X146000000Y-95000000D03*
+G04 #@! TD*
+D12*
+G04 #@! TO.P,SW1,1,1*
+G04 #@! TO.N,Net-(BT1-+)*
+X119750000Y-118250000D03*
+X113250000Y-118250000D03*
+G04 #@! TO.P,SW1,2,2*
+G04 #@! TO.N,Net-(D1-A)*
+X119750000Y-122750000D03*
+X113250000Y-122750000D03*
+G04 #@! TD*
+D13*
+G04 #@! TO.P,R1,1*
+G04 #@! TO.N,Net-(D1-K)*
+X123000000Y-106690000D03*
+D14*
+G04 #@! TO.P,R1,2*
+G04 #@! TO.N,Net-(BT1--)*
+X123000000Y-114310000D03*
+G04 #@! TD*
+D13*
+G04 #@! TO.P,R2,1*
+G04 #@! TO.N,Net-(D2-K)*
+X168500000Y-118810000D03*
+D14*
+G04 #@! TO.P,R2,2*
+G04 #@! TO.N,Net-(BT1--)*
+X168500000Y-111190000D03*
+G04 #@! TD*
+D13*
+G04 #@! TO.P,R3,1*
+G04 #@! TO.N,Net-(D3-K)*
+X167500000Y-106310000D03*
+D14*
+G04 #@! TO.P,R3,2*
+G04 #@! TO.N,Net-(BT1--)*
+X167500000Y-98690000D03*
+G04 #@! TD*
+D15*
+G04 #@! TO.N,*
+X146000000Y-61500000D03*
+G04 #@! TD*
+M02*
